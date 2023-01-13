@@ -12,7 +12,7 @@ Data cleaning:
 
 
 Conclusions:
-- Built an interactive dashboard and found out few insights.
+- Built an interactive [dashboard](https://github.com/karthikdoijode/BikeSalesInteractiveDashboard-UsingExcel/blob/main/BikeSalesDashboard.xlsx) and found out few insights.
 - It is evident that average income of both male and female is increasing after purchasing bike to commute.
 - It is clear that people are using bike to commute for lesser distance like between 0-1 miles.
 - It has proven that people who are between the age range of 31-54 are using bike much compared to other age group.
