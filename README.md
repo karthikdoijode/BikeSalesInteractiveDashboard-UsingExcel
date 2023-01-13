@@ -4,7 +4,7 @@ Analyzing data and building an interactive dashboard using charts and pivot tabl
 Objective: To analyze and find key insights from the dataset
 
 About the dataset: 
-This [data](https://github.com/karthikdoijode/BikeSalesDashboard-UsingExcelChartsAndPivotTable/blob/main/Excel%20Project%20Dataset.xlsx) we downloaded from Google which is having information on people living in 3 different region such as North America, Europe and Pacific. 
+This [data](https://github.com/karthikdoijode/BikeSalesInteractiveDashboard-UsingExcel/blob/main/Excel%20Project%20Dataset.xlsx) we downloaded from Google which is having information on people living in 3 different region such as North America, Europe and Pacific. 
 
 Data cleaning:
 - We found few duplicates and removed from the dataset to get good results after analyzing. Here we first removed duplicates, and replaced M and S in marital status column to married and single and also replaced F and M of Sex column to Female and Male for better understanding
